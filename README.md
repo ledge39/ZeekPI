@@ -21,5 +21,7 @@ Zeek IDS on Raspberry Pi 4
 
 `make && sudo make install`
 
+*Warning this step will take 1+ hours*
+
 #### Configure Zeek
 
